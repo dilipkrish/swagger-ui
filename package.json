@@ -50,6 +50,6 @@
     "less": "^2.4.0",
     "mocha": "^2.1.0",
     "selenium-webdriver": "^2.45.0",
-    "swagger-client": "dilipkrish/swagger.js#v2.1.11-rfc6570"
+    "swagger-client": "dilipkrish/swagger.js#v2.1.11.1-rfc6570"
   }
 }
